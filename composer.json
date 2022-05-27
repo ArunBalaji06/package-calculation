@@ -7,6 +7,6 @@
             "email": "arunbalaji@sparkouttech.com"
         }
     ],
-    "require": {}
+    "require": {},
      "minimum-stability": "dev"
 }
