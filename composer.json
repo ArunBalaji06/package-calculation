@@ -1,0 +1,11 @@
+{
+    "name": "devpac/calculation",
+    "description": "Do any calculations",
+    "authors": [
+        {
+            "name": "ArunBalaji06",
+            "email": "arunbalaji@sparkouttech.com"
+        }
+    ],
+    "require": {}
+}
