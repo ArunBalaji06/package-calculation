@@ -9,6 +9,6 @@
     ],
     "require": {
         "minimum-stability": "dev"
-    },
+    }
      
 }
