@@ -9,11 +9,11 @@
     ],
     "require": {
         "php": "^7.4",
+        "laravel/framework": "^8.75",
         "illuminate/support": "^5.8|^6.0|^7.0|^8.0"
     },
     "require-dev": {
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "DevPac\\Calculation\\": "src"
@@ -30,6 +30,8 @@
                 "DevPac\\Calculation\\CalculationServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
      
 }
