@@ -1,6 +1,7 @@
 {
     "name": "devpac/calculation",
     "description": "Do any calculations",
+    "license": "MIT",
     "authors": [
         {
             "name": "ArunBalaji06",
@@ -31,7 +32,5 @@
             ]
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
-     
+    "minimum-stability": "dev"     
 }
